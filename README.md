@@ -2,4 +2,4 @@
 This is a Data Analysis and Visualization project on Penguins dataset
 
 
-Requirement : numpy, pandas, matplotlib and seaborn library
+<b>Requirements :</b> numpy, pandas, matplotlib and seaborn library
